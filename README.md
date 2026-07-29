@@ -1,5 +1,10 @@
 <img src="Ressources/HAOS-logo.png" width="25%">
 
+![Static Badge](https://img.shields.io/badge/Self%20hosting-IoT-%2340BCF4)
+![Static Badge](https://img.shields.io/badge/Self%20hosting-Centralisation-%2340BCF4)
+
+
+
 ## 🎯 Présentation générale du projet
 
 Ce projet fait partie d’un ensemble de travaux réalisés autour de Proxmox. Il a pour objectif de documenter l’installation de HAOS (Home Assistant Operating System) sur une machine virtuelle Proxmox.
